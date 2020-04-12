@@ -1,0 +1,59 @@
+.btn-group-lg>.btn, .btn-lg {
+    font-size: 17px;
+}
+
+.mb-5, .my-5 {
+    margin-bottom: 1.5rem!important;
+}
+
+.mt-5, .my-5 {
+    margin-top: 1.5rem!important;
+}
+
+a {
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #efe7e4;
+}
+
+.about {
+    margin-bottom: 2rem;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 17px;
+    line-height: 28px;
+}
+
+.me {
+    width: 90%;
+}
+
+.main {
+    margin: 20px;
+}
+
+.main-text {
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-top: 20px;
+    color: #8c797f;
+}
+
+.btn-primary {
+    background-color: #8c797f;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #8c797f;
+}

@@ -1,0 +1,24 @@
+.thumbnail {
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.caption {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    color: #8c797f;
+}
+
+.preview {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+footer {
+    background-color: #8c797f;
+    color: #efe7e4;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 45px;
+}

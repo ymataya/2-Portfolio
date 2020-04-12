@@ -1,0 +1,26 @@
+.container {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+h4 {
+    color: #8c797f;
+    margin-bottom: 2rem;
+}
+
+img {
+    width: 80%;
+}
+
+.btn-primary {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: #8c797f;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #8c797f;
+}

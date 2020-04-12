@@ -1,0 +1,45 @@
+h3 {
+    margin-top: 5rem;
+    margin-left: 3rem;
+    font-weight: 600;
+    color: #8c797f;
+}
+
+form {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #BEBEBE;
+    opacity: 0.7;
+  }
+
+
+#message {
+    padding-bottom: 8rem;
+    padding-top: 1rem;
+}
+
+.form-control:focus {
+    border-color: #8c797f;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(94, 65, 79, 0.25);
+}
+
+.btn-primary {
+    background-color: #8c797f;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #8c797f;
+}
+
+.more {
+    margin-bottom: 8rem;
+    margin-left: 3rem;
+}

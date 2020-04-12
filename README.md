@@ -1,2 +1,3 @@
-# homework-7
-Updated portfolio with recent coding work
+# Portfolio
+
+Updated my portfolio by adding recent coding work.
