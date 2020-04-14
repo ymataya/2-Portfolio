@@ -1,8 +1,8 @@
 h3 {
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-left: 3rem;
     font-weight: 600;
-    color: #8c797f;
+    color: #fafafa;;
 }
 
 form {
@@ -16,6 +16,11 @@ form {
     opacity: 0.7;
   }
 
+.contact {
+    background-color: #8c797f;
+    padding-bottom: 3rem;
+    border-radius: 8px;
+}
 
 #message {
     padding-bottom: 8rem;
@@ -23,19 +28,24 @@ form {
 }
 
 .form-control:focus {
-    border-color: #8c797f;
+    border-color: #fafafa;
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(94, 65, 79, 0.25);
 }
 
+label {
+    color:#fafafa;
+}
+
 .btn-primary {
+    margin-top: 2rem;
     background-color: #8c797f;
-    color: white;
+    color: #fafafa;
     border: none;
 }
 
 .btn:hover {
-    background-color: white;
+    background-color: #fafafa;
     color: #8c797f;
 }
 

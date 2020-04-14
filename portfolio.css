@@ -1,3 +1,35 @@
+body {
+    background-color: #fafafa;
+}
+
+.navbar {
+    margin-bottom: 10rem;
+}
+
+#portfolio {
+    /* padding-top: 3rem; */
+    padding-bottom: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+.thumbnail {
+    width: 80%;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+h4 {
+    /* writing-mode: vertical-lr;
+    text-orientation: sideways-right;
+    letter-spacing: 0.10rem; */
+    text-align: left;
+    color: #8c797f;
+}
+
+
 .thumbnail {
     width: 80%;
     margin-bottom: 30px;
@@ -13,12 +45,4 @@
 .preview {
     text-align: center;
     margin-top: 3rem;
-}
-
-footer {
-    background-color: #8c797f;
-    color: #efe7e4;
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 45px;
 }
