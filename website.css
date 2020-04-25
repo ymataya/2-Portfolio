@@ -1,46 +1,54 @@
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Avenir";
     /* background-color: #efe7e4; */
-    background-color: #fbfbfd;
+    background-color: #fbf2ed;
 }
 
-.navbar {
-    background-color:transparent;
-    color: #8c797f;
-    /* padding-left: 40px;
-    padding-right: 40px; */
+.center-nav {
+    border-top: 0.5px solid #8c797f;
     padding-top: 2rem;
-    margin-bottom: 5rem;
 }
 
-.right {
-    float: right;
+#name {
+    font-family: "Avenir";
+    font-weight: 100;
+    letter-spacing: 4px;
+    font-size: 26px;
+    color: #8c797f;
+}
+
+#career {
+    font-family: "Avenir";
+    font-weight: 200;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    padding-bottom: 1rem;
 }
 
 a {
     padding-left: 8px;
     padding-right: 8px;
-    color: #8c797f;
+    text-align: center;
+    color: #7e7e7e;    ;
+    font-size: 16px;
 }
 
 a:hover {
     text-decoration: none;
     color: #8c797f;
-    font-size: 18px;
+    /* font-size: 18px; */
     cursor: pointer;
 }
 
-.preview {
-    margin-top: 5rem;
+#landing {
+    margin: auto;
+    margin-top: 15rem;
     margin-bottom: 5rem;
 }
 
 #intro {
-    position: relative;
-    top: 50px;
     text-align: center;
-    /* color:#8c797f; */
-    color: 	#ff6969;
+    color: 	#8c797f;
 }
 
 
