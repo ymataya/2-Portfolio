@@ -1,3 +1,46 @@
+body {
+    background-color: #fafafa;
+}
+
+.center-nav {
+    border-top: 0.5px solid #8c797f;
+    padding-top: 2rem;
+}
+
+#name {
+    font-family: "Avenir";
+    font-weight: 100;
+    letter-spacing: 4px;
+    font-size: 26px;
+    color: #8c797f;
+}
+
+a {
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+    color: #7e7e7e; 
+    font-size: 16px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #8c797f;
+    /* font-size: 18px; */
+    cursor: pointer;
+}
+
+#landing {
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: 7rem;
+}
+
+#intro {
+    text-align: center;
+    color: 	#8c797f;
+}
+
 .container {
     margin-top: 3rem;
     text-align: center;
