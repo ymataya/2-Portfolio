@@ -9,7 +9,7 @@ Created an updated version of my portfolio by adding more work I have done for m
 
 ## Project Preview:
 My portfolio looks like the image below
-![Preview](./public/assets/images/portfolio.png)
+![Preview](/images/portfolio.png)
 
 ## Project Link:
 https://ymataya.github.io/2-Portfolio/
